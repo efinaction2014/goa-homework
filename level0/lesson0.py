@@ -7,8 +7,8 @@ from turtle import *
 speed(30)
 width(5)
 color("red")
-forward(200)
-left(90) 
+speed(30)
+width(5)
 
 forward(200)
 left(90)
@@ -62,7 +62,7 @@ forward(50)
 
 left(90)
 forward(50)
-right(-90)
+right(90)
 forward(50)
 end_fill()
 
@@ -78,7 +78,7 @@ right(90)
 
 forward(50)
 color("red")
-left(-90)
+left(90)
 forward(50)
 right(90)
 forward(50)
